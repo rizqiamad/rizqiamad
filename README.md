@@ -23,7 +23,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan web designing, wal
 
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
-- Email: [hanif.ahmad.tif423@polban.ac.id](mail:hanif.ahmad.tif423@polban.ac.id)
+- Email: [hanif.ahmad.tif423@polban.ac.id](mailto:hanif.ahmad.tif423@polban.ac.id)
 - LinkedIn: [linkedin.com/in/hanifrizq](http://linkedin.com/in/hanifrizq)
 
 Terima kasih telah mengunjungi profil saya. Mari kita saling belajar dan mengajar agar skill set kita meningkat dan kita dapat melakukan banyak inovasi di kemudian hari.
