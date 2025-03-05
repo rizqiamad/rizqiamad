@@ -1,29 +1,33 @@
-# Profil Hanif Ahmad Rizqullah
+## About Me
 
-## Tentang Saya
+Welcome to my github profile!👋, I am a fullstack web developer who dedicated to build solutive web app for everyone who needs it. With my expertise in both frontend and backend i believe i can help people digitilize their needs with these technologies.
 
-Halo! Saya seorang mahasiswa yang sangat tertarik dalam dunia **web development**. Dari desain hingga implementasi, saya mengejar keunggulan dalam menciptakan pengalaman web yang menarik dan fungsional. Saya percaya bahwa web adalah media yang kuat untuk menyampaikan ide dan solusi, dan saya bersemangat untuk terus belajar dan mengembangkan keterampilan saya dalam menciptakan hal-hal yang bermanfaat dan menarik di dunia digital.
+💻 **Expertise**
 
-## Kepakaran
+- **Frontend**: Building responsive website, with great fundamental about html, css, and javascript. Improving by some frameworks increasing development process and performance.
 
-- **Web Development**: Pengalaman dalam membuat sebuah web sederhana, termasuk di dalamnya penggunaan terhadap Html, Css, dan JavaScript, dan juga beberapa framework yang berkaitan dengan javascript.
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,ts,js)]
 
-## Pendidikan
+- **Backend**: Building backbone of dynamic web application
 
-- MA Almukmin Ngruki
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,go,express,prisma,postgres,mongodb)]
 
-## Proyek dan Kontribusi
+- **Tools**: Building web app needs tools to make development easier, these are the tools i use the most
 
-Saya telah berkontribusi pada berbagai proyek yang melibatkan web designing, walaupun saya masih pemula dalam hal itu dan membutuhkan waktu yang lama. Beberapa highlight termasuk:
+  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,supabase)]
 
-- Mendesign UI dari suatu web
+📫 **Contact Me:** if you want to collaborate
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhanif759@gmail.com) 
 
-## Menghubungi Saya
+[![My Skills](https://skillicons.dev/icons?i=gmail)]
 
-Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 
-- Email: [hanif.ahmad.tif423@polban.ac.id](mailto:hanif.ahmad.tif423@polban.ac.id)
-- LinkedIn: [linkedin.com/in/hanifrizq](http://linkedin.com/in/hanifrizq)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]
 
-Terima kasih telah mengunjungi profil saya. Mari kita saling belajar dan mengajar agar skill set kita meningkat dan kita dapat melakukan banyak inovasi di kemudian hari.
+📊 **GitHub Stats:**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizqiamad&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqiamad&layout=compact&theme=tokyonight)
