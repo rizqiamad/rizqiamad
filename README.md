@@ -1,3 +1,9 @@
+## 📊 **My GitHub Stats:**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizqiamad&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqiamad&layout=compact&theme=tokyonight)
+
 ## About Me
 
 Welcome to my github profile!👋, I am a fullstack web developer who dedicated to build solutive web app for everyone who needs it. With my expertise in both frontend and backend i believe i can help people digitilize their needs with these technologies.
@@ -20,8 +26,3 @@ Welcome to my github profile!👋, I am a fullstack web developer who dedicated 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhanif759@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 
-📊 **GitHub Stats:**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizqiamad&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqiamad&layout=compact&theme=tokyonight)
